@@ -1,0 +1,4 @@
+﻿  Traitement.cpp
+Traitement.cpp(150): warning C4305: '=' : troncation de 'double' à 'float'
+Traitement.cpp(327): warning C4305: '=' : troncation de 'double' à 'float'
+  OpenCVDefault.vcxproj -> S:\2015\VISION\Lab 3\Lab 3\x64\Debug\OpenCVDetecMov.exe
